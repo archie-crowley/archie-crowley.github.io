@@ -4,10 +4,13 @@ layout: page
 permalink: /research
 ---
 
-# Want to add a new page that doesn't exist?
+# Community Events 
+Are you interested in having us speak at your event about linguistics and language in trans communities? Submit a contact form with information about your event or organization, and we will get back to you!
 
-1. Update the name of the markdown file in the field that reads `samplenewpage` above the Edit/Preview tabs (after `/demo/pages/` and before `in main`)
-1. Change the value in the line that begins with `title` in the YML front-matter (the stuff between the `---` lines).
-1. Keep the `layout: page` line. This adds your web site's navigation, header and footer.
-1. Set the permalink value to the web site address you want people to go to. For instance, if your site URL is `digitalarcplatform.github.io` and you want people to see this page at `digitalarcplatform.github.io/about`, change that line to read `permalink: /about`
-1. Replace the text here, starting with the large header (the line that starts with `#`) and including this text.
+# Conferences & Presentations
+Archie Crowley & Haley Kinsler (March 2024). “This is the future that conservatives want”: Chronotopes of trans life in North Carolina’s sociopolitical climate. Presented at the Southeastern Conference on Linguistics and Language Variety in the South V: The Changing South.
+
+Haley Kinsler (March 2024). “There’s a lot of baggage”: Trans North Carolinians’ orientations to Southern identity in discourse. Presented at the Southeastern Conference on Linguistics and Language Variety in the South V: The Changing South.
+
+# Publications 
+Haley Kinsler (April 2024) . “There’s a lot of  baggage”: Trans North Carolinian’s orientations to Southern identity in discourse. Submitted in partial fulfillment for their Master’s program at North Carolina State University.
