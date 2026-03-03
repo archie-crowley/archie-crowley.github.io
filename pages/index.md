@@ -1,17 +1,19 @@
 ---
-title: IDAH Community Archiving Template
+title: TCTNBLP
 layout: homepage
 permalink: /
 ---
+*About the Project*
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+This is an interview-based corpus focused on gaining insight into the experiences of transgender, nonbinary, and gender nonconforming people in North Carolina. 
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
+The goals of this project include:
+  1. Documenting the lives of trans and nonbinary people in the South
+  2. Documenting language use in trans communities
+  3. Creating community-centered resources for trans and nonbinary people in North Carolina
 
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
+*Why Trans Linguistics?*
 
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+Trans and nonbinary people often think critically about language, developing creative and innovative strategies for expressing their identities and navigating the social world.  Work within trans linguistics recognizes the ways language is used to challenge, critique, construct and reproduce social structures. 
+
+The project is centered in both academic and community-based work to explore and document language use among transgender and nonbinary North Carolinians. This includes documenting the voices, linguistic practices, and language ideologies of trans, nonbinary, and gender diverse individuals across the state. 
