@@ -1,11 +1,26 @@
 # Site navigation links
 
-- title: Our Community
+- title: About
   url: /
   excerpt:
   image:
 
-- title: Our Collection
+- title: Our Team
+  url: /team
+  excerpt:
+  image:
+
+- title: Research
+  url: /research
+  excerpt:
+  image:
+
+  - title: Printables
+  url: /printables
+  excerpt:
+  image:
+
+  - title: Resources
   url: /collection
   excerpt:
   image:
