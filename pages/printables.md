@@ -4,10 +4,11 @@ layout: page
 permalink: /printables
 ---
 
-# Want to add a new page that doesn't exist?
+# On Being Trans and Staying in the South
+This printable miniature zine features excerpts from interviews with trans and nonbinary participants from across the state of North Carolina.
+Inside, you can find their thoughts and reflections on navigating whether to remain in the south or leave amidst the current sociopolitical climate.
 
-1. Update the name of the markdown file in the field that reads `samplenewpage` above the Edit/Preview tabs (after `/demo/pages/` and before `in main`)
-1. Change the value in the line that begins with `title` in the YML front-matter (the stuff between the `---` lines).
-1. Keep the `layout: page` line. This adds your web site's navigation, header and footer.
-1. Set the permalink value to the web site address you want people to go to. For instance, if your site URL is `digitalarcplatform.github.io` and you want people to see this page at `digitalarcplatform.github.io/about`, change that line to read `permalink: /about`
-1. Replace the text here, starting with the large header (the line that starts with `#`) and including this text.
+# Trans in Alamance
+This printable zine highlights excerpts from interviews with trans and nonbinary participants from Alamance County, NC.
+
+These interviews were collected in Fall 2024 by Undergraduate students at Elon University and cover topics such as healthcare, workplace experiences, community, and trans life in Alamance County. 
