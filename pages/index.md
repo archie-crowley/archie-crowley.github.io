@@ -5,7 +5,7 @@ permalink: /
 ---
 **About the Project**
 
-This is an interview-based corpus focused on gaining insight into the experiences of transgender, nonbinary, and gender nonconforming people in North Carolina. 
+This is an interview-based project focused on gaining insight into the experiences of transgender, nonbinary, and gender nonconforming people in North Carolina. 
 
 The goals of this project include:
   1. Documenting the lives of trans and nonbinary people in the South
