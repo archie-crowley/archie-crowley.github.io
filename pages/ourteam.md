@@ -1,7 +1,7 @@
 ---
-title: Sample New Page
+title: Our Team
 layout: page
-permalink: /newpage
+permalink: /team
 ---
 
 # Want to add a new page that doesn't exist?
