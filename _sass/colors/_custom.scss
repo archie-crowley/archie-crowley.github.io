@@ -1,9 +1,9 @@
 /** == ORANGE AND TAN Color Palette
 /* CSS HEX */
 /**
---midnight-violet: #004042ff;
---cherry-rose: #5eb1bfff;
---cotton-rose: #ffffffff;
+--coffee-bean: #004042ff;
+--white: #5eb1bfff;
+--cotton-candy: #ffffffff;
 --orange-crayola: #ef7a43ff;
 --pacific-cyan: #d94f30ff;
 
@@ -13,28 +13,28 @@
 **/
 
 /* SCSS HEX */
-$midnight-violet: #330A1A;
-$cherry-rose: #AB2158;
-$cotton-rose: #F7CACD;
+$coffee-bean: #110309;
+$white: #FFFFFF;
+$cotton-candy: #EE959B;
 $pacific-cyan: #0A95AE;
 
 /** main color scheme **/
-$main-text-color: $midnight-violet;
-$main-bg: lighten( $cherry-rose, 43% );
+$main-text-color: $coffee-bean;
+$main-bg: lighten( $white, 43% );
 $main-link: $pacific-cyan;
 $main-link-hover: lighten( $pacific-cyan, 25% );
 $main-headers: $pacific-cyan;
 
 /** Color scheme for top header bar **/
-$dark-text-color: $midnight-violet;
-$dark-bg: lighten( $cherry-rose, 30% );
+$dark-text-color: $coffee-bean;
+$dark-bg: lighten( $white, 30% );
 $dark-link: darken( $pacific-cyan, 10% );
-$dark-link-hover: $midnight-violet;
+$dark-link-hover: $coffee-bean;
 $dark-headers: darken( $pacific-cyan, 15% );
 
 /** Color scheme for bottom bar **/
-$accent-text-color: lighten( $cherry-rose, 43% );
-$accent-bg: $midnight-violet;
+$accent-text-color: lighten( $white, 43% );
+$accent-bg: $coffee-bean;
 $accent-link: lighten( $pacific-cyan, 25% );
-$accent-link-hover: $cotton-rose;
+$accent-link-hover: $cotton-candy;
 $accent-headers: lighten( $pacific-cyan, 25% );
